@@ -1,7 +1,7 @@
 "use client"
 
 import Link from 'next/link'
-import styles from "@/app/scss/Sidebar.module.scss"
+import styles from "@/app/scss/sidebar/Sidebar.module.scss"
 
 export default function Sidebar() {
     return (
